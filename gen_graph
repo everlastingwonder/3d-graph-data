@@ -31,6 +31,6 @@ for p, s in nonadj.items():
                 graph['links'].append({'source': str(p), 'target': str(q), 'value': values[p] + values[q]})
     processed.add(p)
 
-with open(f'{mode}_graph.json', 'w') as fp:
+with open(f'graphs/{mode}.json', 'w') as fp:
     json.dump(graph, fp, indent=4)
     fp.write('\n')
