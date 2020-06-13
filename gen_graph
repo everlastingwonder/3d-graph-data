@@ -8,24 +8,22 @@ import json
 modes = {'default': frozenset((1, 2, 3, 4, 5, 6, 7, 8, 12)),
         'center_poles': frozenset((5, 12)),
         'center': frozenset((5, 7, 12))}
-
 mode = 'default' if len(sys.argv) == 1 else sys.argv[1].lower()
 include_values = modes[mode]
 
-
-with open('data/nonadj_lehmer.pickle', 'rb') as fp:
-    nonadj = pickle.load(fp)
-
-with open('data/equivalents_lehmer.pickle', 'rb') as fp:
-    equivs = pickle.load(fp)
+data_files = {'nonadj_lehmer': 'nonadj', 'equivalents_lehmer': 'equivs'}
+data = dict()
+for fname, key in data_files.items():
+    with open(f'data/{fname}.pickle', 'rb') as fp:
+        data[key] = pickle.load(fp)
 
 graph = {'nodes': list(), 'links': list()}
-values = {p: len(s) for p, s in nonadj.items()}
+values = {p: len(s) for p, s in data['nonadj'].items()}
 processed = set()
 
-for p, s in nonadj.items():
+for p, s in data['nonadj'].items():
     if values[p] in include_values:
-        graph['nodes'].append({'id': str(p), 'value': values[p], 'equivs': equivs[p]})
+        graph['nodes'].append({'id': str(p), 'value': values[p], 'equivs': data['equivs'][p]})
         for q in s:
             if q not in processed and values[q] in include_values:
                 graph['links'].append({'source': str(p), 'target': str(q), 'value': values[p] + values[q]})
