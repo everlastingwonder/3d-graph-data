@@ -13,10 +13,10 @@ mode = 'nonadj' if len(sys.argv) == 1 else sys.argv[1].lower()
 include_values = modes[mode]
 
 
-with open('nonadj_lehmer.pickle', 'rb') as fp:
+with open('data/nonadj_lehmer.pickle', 'rb') as fp:
     nonadj = pickle.load(fp)
 
-with open('equivalents_lehmer.pickle', 'rb') as fp:
+with open('data/equivalents_lehmer.pickle', 'rb') as fp:
     equivs = pickle.load(fp)
 
 graph = {'nodes': list(), 'links': list()}
