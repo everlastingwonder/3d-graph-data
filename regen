@@ -1,0 +1,6 @@
+#!/bin/bash
+declare -a modes=("default" "center" "center_poles")
+
+for mode in "${modes[@]}"; do
+    python3.7 /home/angus/Documents/Code/games/sudoku/graphs/3d-graph-data/gen_graph "$mode"
+done
