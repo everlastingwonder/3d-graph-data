@@ -19,18 +19,18 @@ with open('nonadj_lehmer.pickle', 'rb') as fp:
 with open('equivalents_lehmer.pickle', 'rb') as fp:
     equivs = pickle.load(fp)
 
-data = {'nodes': list(), 'links': list()}
-pull = {p: len(s) for p, s in nonadj.items()}
+graph = {'nodes': list(), 'links': list()}
+values = {p: len(s) for p, s in nonadj.items()}
 processed = set()
 
 for p, s in nonadj.items():
-    if pull[p] in include_values:
-        data['nodes'].append({'id': str(p), 'value': pull[p], 'equivs': equivs[p]})
+    if values[p] in include_values:
+        graph['nodes'].append({'id': str(p), 'value': values[p], 'equivs': equivs[p]})
         for q in s:
-            if q not in processed and pull[q] in include_values:
-                data['links'].append({'source': str(p), 'target': str(q), 'value': pull[p] + pull[q]})
+            if q not in processed and values[q] in include_values:
+                graph['links'].append({'source': str(p), 'target': str(q), 'value': values[p] + values[q]})
     processed.add(p)
 
 with open(f'{mode}_graph.json', 'w') as fp:
-    json.dump(data, fp, indent=4)
+    json.dump(graph, fp, indent=4)
     fp.write('\n')
