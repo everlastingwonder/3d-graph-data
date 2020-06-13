@@ -3,642 +3,2178 @@
         {
             "id": "12996",
             "value": 12,
-            "equivs": 2
+            "equivs": 2,
+            "permutation": [
+                0,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                8
+            ],
+            "perm_string": "(0, 3, 6, 1, 4, 7, 2, 5, 8)"
         },
         {
             "id": "13069",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                0,
+                3,
+                6,
+                1,
+                8,
+                5,
+                2,
+                7,
+                4
+            ],
+            "perm_string": "(0, 3, 6, 1, 8, 5, 2, 7, 4)"
         },
         {
             "id": "14804",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                3,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(0, 3, 8, 5, 2, 7, 4, 1, 6)"
         },
         {
             "id": "18907",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                4,
+                7,
+                2,
+                5,
+                8,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(0, 4, 7, 2, 5, 8, 1, 6, 3)"
         },
         {
             "id": "18909",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                4,
+                7,
+                2,
+                5,
+                8,
+                3,
+                6,
+                1
+            ],
+            "perm_string": "(0, 4, 7, 2, 5, 8, 3, 6, 1)"
         },
         {
             "id": "24795",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                0,
+                5,
+                8,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(0, 5, 8, 3, 6, 1, 4, 7, 2)"
         },
         {
             "id": "27250",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                6,
+                3,
+                8,
+                1,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(0, 6, 3, 8, 1, 4, 7, 2, 5)"
         },
         {
             "id": "27323",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                6,
+                3,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1
+            ],
+            "perm_string": "(0, 6, 3, 8, 5, 2, 7, 4, 1)"
         },
         {
             "id": "32483",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                7,
+                4,
+                1,
+                6,
+                3,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(0, 7, 4, 1, 6, 3, 8, 5, 2)"
         },
         {
             "id": "37210",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                8,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(0, 8, 3, 6, 1, 4, 7, 2, 5)"
         },
         {
             "id": "38389",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                0,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(0, 8, 5, 2, 7, 4, 1, 6, 3)"
         },
         {
             "id": "59226",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(1, 4, 7, 2, 5, 8, 0, 3, 6)"
         },
         {
             "id": "59227",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                0,
+                6,
+                3
+            ],
+            "perm_string": "(1, 4, 7, 2, 5, 8, 0, 6, 3)"
         },
         {
             "id": "59228",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                3,
+                0,
+                6
+            ],
+            "perm_string": "(1, 4, 7, 2, 5, 8, 3, 0, 6)"
         },
         {
             "id": "59229",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                3,
+                6,
+                0
+            ],
+            "perm_string": "(1, 4, 7, 2, 5, 8, 3, 6, 0)"
         },
         {
             "id": "65115",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                5,
+                8,
+                3,
+                6,
+                0,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(1, 5, 8, 3, 6, 0, 4, 7, 2)"
         },
         {
             "id": "67069",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                6,
+                3,
+                0,
+                8,
+                5,
+                2,
+                7,
+                4
+            ],
+            "perm_string": "(1, 6, 3, 0, 8, 5, 2, 7, 4)"
         },
         {
             "id": "67570",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                6,
+                3,
+                8,
+                0,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(1, 6, 3, 8, 0, 4, 7, 2, 5)"
         },
         {
             "id": "67573",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                6,
+                3,
+                8,
+                0,
+                5,
+                2,
+                7,
+                4
+            ],
+            "perm_string": "(1, 6, 3, 8, 0, 5, 2, 7, 4)"
         },
         {
             "id": "67642",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                6,
+                3,
+                8,
+                5,
+                2,
+                7,
+                0,
+                4
+            ],
+            "perm_string": "(1, 6, 3, 8, 5, 2, 7, 0, 4)"
         },
         {
             "id": "67643",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                6,
+                3,
+                8,
+                5,
+                2,
+                7,
+                4,
+                0
+            ],
+            "perm_string": "(1, 6, 3, 8, 5, 2, 7, 4, 0)"
         },
         {
             "id": "72803",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                7,
+                4,
+                0,
+                6,
+                3,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(1, 7, 4, 0, 6, 3, 8, 5, 2)"
         },
         {
             "id": "77530",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                8,
+                3,
+                6,
+                0,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(1, 8, 3, 6, 0, 4, 7, 2, 5)"
         },
         {
             "id": "78709",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                1,
+                8,
+                5,
+                2,
+                7,
+                4,
+                0,
+                6,
+                3
+            ],
+            "perm_string": "(1, 8, 5, 2, 7, 4, 0, 6, 3)"
         },
         {
             "id": "105156",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                5,
+                8,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7
+            ],
+            "perm_string": "(2, 5, 8, 0, 3, 6, 1, 4, 7)"
         },
         {
             "id": "105306",
             "value": 4,
-            "equivs": 2
+            "equivs": 2,
+            "permutation": [
+                2,
+                5,
+                8,
+                1,
+                4,
+                7,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(2, 5, 8, 1, 4, 7, 0, 3, 6)"
         },
         {
             "id": "105319",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                5,
+                8,
+                1,
+                6,
+                3,
+                0,
+                7,
+                4
+            ],
+            "perm_string": "(2, 5, 8, 1, 6, 3, 0, 7, 4)"
         },
         {
             "id": "105380",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                5,
+                8,
+                3,
+                0,
+                7,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(2, 5, 8, 3, 0, 7, 4, 1, 6)"
         },
         {
             "id": "105435",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                5,
+                8,
+                3,
+                6,
+                0,
+                4,
+                7,
+                1
+            ],
+            "perm_string": "(2, 5, 8, 3, 6, 0, 4, 7, 1)"
         },
         {
             "id": "105441",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                5,
+                8,
+                3,
+                6,
+                1,
+                4,
+                7,
+                0
+            ],
+            "perm_string": "(2, 5, 8, 3, 6, 1, 4, 7, 0)"
         },
         {
             "id": "113122",
             "value": 1,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                2,
+                7,
+                4,
+                0,
+                6,
+                3,
+                8,
+                1,
+                5
+            ],
+            "perm_string": "(2, 7, 4, 0, 6, 3, 8, 1, 5)"
         },
         {
             "id": "113123",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                7,
+                4,
+                0,
+                6,
+                3,
+                8,
+                5,
+                1
+            ],
+            "perm_string": "(2, 7, 4, 0, 6, 3, 8, 5, 1)"
         },
         {
             "id": "113238",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                5,
+                8
+            ],
+            "perm_string": "(2, 7, 4, 1, 6, 3, 0, 5, 8)"
         },
         {
             "id": "113239",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                8,
+                5
+            ],
+            "perm_string": "(2, 7, 4, 1, 6, 3, 0, 8, 5)"
         },
         {
             "id": "113242",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                8,
+                0,
+                5
+            ],
+            "perm_string": "(2, 7, 4, 1, 6, 3, 8, 0, 5)"
         },
         {
             "id": "113243",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                8,
+                5,
+                0
+            ],
+            "perm_string": "(2, 7, 4, 1, 6, 3, 8, 5, 0)"
         },
         {
             "id": "113268",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                7,
+                4,
+                1,
+                8,
+                5,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(2, 7, 4, 1, 8, 5, 0, 3, 6)"
         },
         {
             "id": "118836",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                8,
+                5,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7
+            ],
+            "perm_string": "(2, 8, 5, 0, 3, 6, 1, 4, 7)"
         },
         {
             "id": "118909",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                8,
+                5,
+                0,
+                7,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(2, 8, 5, 0, 7, 4, 1, 6, 3)"
         },
         {
             "id": "119029",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                2,
+                8,
+                5,
+                1,
+                7,
+                4,
+                0,
+                6,
+                3
+            ],
+            "perm_string": "(2, 8, 5, 1, 7, 4, 0, 6, 3)"
         },
         {
             "id": "124069",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                0,
+                6,
+                2,
+                8,
+                5,
+                1,
+                7,
+                4
+            ],
+            "perm_string": "(3, 0, 6, 2, 8, 5, 1, 7, 4)"
         },
         {
             "id": "125684",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                0,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(3, 0, 8, 5, 2, 7, 4, 1, 6)"
         },
         {
             "id": "146475",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                0,
+                4,
+                7,
+                1,
+                5,
+                8,
+                2
+            ],
+            "perm_string": "(3, 6, 0, 4, 7, 1, 5, 8, 2)"
         },
         {
             "id": "146481",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                0,
+                4,
+                7,
+                2,
+                5,
+                8,
+                1
+            ],
+            "perm_string": "(3, 6, 0, 4, 7, 2, 5, 8, 1)"
         },
         {
             "id": "146843",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                0,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1
+            ],
+            "perm_string": "(3, 6, 0, 8, 5, 2, 7, 4, 1)"
         },
         {
             "id": "147194",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                7,
+                0,
+                5,
+                2,
+                8
+            ],
+            "perm_string": "(3, 6, 1, 4, 7, 0, 5, 2, 8)"
         },
         {
             "id": "147195",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                7,
+                0,
+                5,
+                8,
+                2
+            ],
+            "perm_string": "(3, 6, 1, 4, 7, 0, 5, 8, 2)"
         },
         {
             "id": "147200",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                0,
+                8
+            ],
+            "perm_string": "(3, 6, 1, 4, 7, 2, 5, 0, 8)"
         },
         {
             "id": "147201",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                0
+            ],
+            "perm_string": "(3, 6, 1, 4, 7, 2, 5, 8, 0)"
         },
         {
             "id": "147218",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                8,
+                0,
+                5,
+                2,
+                7
+            ],
+            "perm_string": "(3, 6, 1, 4, 8, 0, 5, 2, 7)"
         },
         {
             "id": "147224",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                4,
+                8,
+                2,
+                5,
+                0,
+                7
+            ],
+            "perm_string": "(3, 6, 1, 4, 8, 2, 5, 0, 7)"
         },
         {
             "id": "147562",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                8,
+                5,
+                2,
+                7,
+                0,
+                4
+            ],
+            "perm_string": "(3, 6, 1, 8, 5, 2, 7, 0, 4)"
         },
         {
             "id": "147563",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                6,
+                1,
+                8,
+                5,
+                2,
+                7,
+                4,
+                0
+            ],
+            "perm_string": "(3, 6, 1, 8, 5, 2, 7, 4, 0)"
         },
         {
             "id": "151604",
             "value": 1,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                3,
+                7,
+                0,
+                5,
+                2,
+                8,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(3, 7, 0, 5, 2, 8, 4, 1, 6)"
         },
         {
             "id": "152386",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                7,
+                1,
+                5,
+                8,
+                2,
+                6,
+                0,
+                4
+            ],
+            "perm_string": "(3, 7, 1, 5, 8, 2, 6, 0, 4)"
         },
         {
             "id": "156644",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                3,
+                8,
+                0,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(3, 8, 0, 5, 2, 7, 4, 1, 6)"
         },
         {
             "id": "164389",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                0,
+                6,
+                2,
+                8,
+                5,
+                1,
+                7,
+                3
+            ],
+            "perm_string": "(4, 0, 6, 2, 8, 5, 1, 7, 3)"
         },
         {
             "id": "165067",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                0,
+                7,
+                2,
+                5,
+                8,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(4, 0, 7, 2, 5, 8, 1, 6, 3)"
         },
         {
             "id": "165069",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                0,
+                7,
+                2,
+                5,
+                8,
+                3,
+                6,
+                1
+            ],
+            "perm_string": "(4, 0, 7, 2, 5, 8, 3, 6, 1)"
         },
         {
             "id": "169452",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                4,
+                1,
+                6,
+                3,
+                0,
+                7,
+                2,
+                5,
+                8
+            ],
+            "perm_string": "(4, 1, 6, 3, 0, 7, 2, 5, 8)"
         },
         {
             "id": "169460",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                1,
+                6,
+                3,
+                0,
+                8,
+                5,
+                2,
+                7
+            ],
+            "perm_string": "(4, 1, 6, 3, 0, 8, 5, 2, 7)"
         },
         {
             "id": "169538",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                1,
+                6,
+                3,
+                8,
+                0,
+                5,
+                2,
+                7
+            ],
+            "perm_string": "(4, 1, 6, 3, 8, 0, 5, 2, 7)"
         },
         {
             "id": "170173",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                1,
+                7,
+                3,
+                0,
+                6,
+                2,
+                8,
+                5
+            ],
+            "perm_string": "(4, 1, 7, 3, 0, 6, 2, 8, 5)"
         },
         {
             "id": "171042",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                1,
+                8,
+                5,
+                2,
+                7,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(4, 1, 8, 5, 2, 7, 0, 3, 6)"
         },
         {
             "id": "191837",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                7,
+                0,
+                3,
+                6,
+                1,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(4, 7, 0, 3, 6, 1, 8, 5, 2)"
         },
         {
             "id": "192706",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                7,
+                1,
+                5,
+                8,
+                2,
+                6,
+                0,
+                3
+            ],
+            "perm_string": "(4, 7, 1, 5, 8, 2, 6, 0, 3)"
         },
         {
             "id": "193341",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                7,
+                2,
+                5,
+                0,
+                8,
+                3,
+                6,
+                1
+            ],
+            "perm_string": "(4, 7, 2, 5, 0, 8, 3, 6, 1)"
         },
         {
             "id": "193419",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                7,
+                2,
+                5,
+                8,
+                0,
+                3,
+                6,
+                1
+            ],
+            "perm_string": "(4, 7, 2, 5, 8, 0, 3, 6, 1)"
         },
         {
             "id": "193427",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                4,
+                7,
+                2,
+                5,
+                8,
+                1,
+                6,
+                3,
+                0
+            ],
+            "perm_string": "(4, 7, 2, 5, 8, 1, 6, 3, 0)"
         },
         {
             "id": "197810",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                8,
+                1,
+                6,
+                3,
+                0,
+                5,
+                2,
+                7
+            ],
+            "perm_string": "(4, 8, 1, 6, 3, 0, 5, 2, 7)"
         },
         {
             "id": "197812",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                8,
+                1,
+                6,
+                3,
+                0,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(4, 8, 1, 6, 3, 0, 7, 2, 5)"
         },
         {
             "id": "198490",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                4,
+                8,
+                2,
+                6,
+                0,
+                3,
+                7,
+                1,
+                5
+            ],
+            "perm_string": "(4, 8, 2, 6, 0, 3, 7, 1, 5)"
         },
         {
             "id": "206235",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                0,
+                8,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(5, 0, 8, 3, 6, 1, 4, 7, 2)"
         },
         {
             "id": "210493",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                1,
+                7,
+                3,
+                0,
+                6,
+                2,
+                8,
+                4
+            ],
+            "perm_string": "(5, 1, 7, 3, 0, 6, 2, 8, 4)"
         },
         {
             "id": "211275",
             "value": 1,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                5,
+                1,
+                8,
+                3,
+                6,
+                0,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(5, 1, 8, 3, 6, 0, 4, 7, 2)"
         },
         {
             "id": "215316",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                0,
+                3,
+                6,
+                1,
+                4,
+                8
+            ],
+            "perm_string": "(5, 2, 7, 0, 3, 6, 1, 4, 8)"
         },
         {
             "id": "215317",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                0,
+                3,
+                6,
+                1,
+                8,
+                4
+            ],
+            "perm_string": "(5, 2, 7, 0, 3, 6, 1, 8, 4)"
         },
         {
             "id": "215655",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                0,
+                6,
+                3,
+                8,
+                1
+            ],
+            "perm_string": "(5, 2, 7, 4, 0, 6, 3, 8, 1)"
         },
         {
             "id": "215661",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                0,
+                8,
+                3,
+                6,
+                1
+            ],
+            "perm_string": "(5, 2, 7, 4, 0, 8, 3, 6, 1)"
         },
         {
             "id": "215678",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                8
+            ],
+            "perm_string": "(5, 2, 7, 4, 1, 6, 3, 0, 8)"
         },
         {
             "id": "215679",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                8,
+                0
+            ],
+            "perm_string": "(5, 2, 7, 4, 1, 6, 3, 8, 0)"
         },
         {
             "id": "215684",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                1,
+                8,
+                3,
+                0,
+                6
+            ],
+            "perm_string": "(5, 2, 7, 4, 1, 8, 3, 0, 6)"
         },
         {
             "id": "215685",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                7,
+                4,
+                1,
+                8,
+                3,
+                6,
+                0
+            ],
+            "perm_string": "(5, 2, 7, 4, 1, 8, 3, 6, 0)"
         },
         {
             "id": "216036",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                8,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7
+            ],
+            "perm_string": "(5, 2, 8, 0, 3, 6, 1, 4, 7)"
         },
         {
             "id": "216398",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                8,
+                4,
+                1,
+                6,
+                3,
+                0,
+                7
+            ],
+            "perm_string": "(5, 2, 8, 4, 1, 6, 3, 0, 7)"
         },
         {
             "id": "216404",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                2,
+                8,
+                4,
+                1,
+                7,
+                3,
+                0,
+                6
+            ],
+            "perm_string": "(5, 2, 8, 4, 1, 7, 3, 0, 6)"
         },
         {
             "id": "237195",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                8,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(5, 8, 0, 3, 6, 1, 4, 7, 2)"
         },
         {
             "id": "238810",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                5,
+                8,
+                2,
+                6,
+                0,
+                3,
+                7,
+                1,
+                4
+            ],
+            "perm_string": "(5, 8, 2, 6, 0, 3, 7, 1, 4)"
         },
         {
             "id": "243850",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                0,
+                3,
+                7,
+                1,
+                4,
+                8,
+                2,
+                5
+            ],
+            "perm_string": "(6, 0, 3, 7, 1, 4, 8, 2, 5)"
         },
         {
             "id": "243970",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                0,
+                3,
+                8,
+                1,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(6, 0, 3, 8, 1, 4, 7, 2, 5)"
         },
         {
             "id": "244043",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                0,
+                3,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1
+            ],
+            "perm_string": "(6, 0, 3, 8, 5, 2, 7, 4, 1)"
         },
         {
             "id": "249611",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                1,
+                4,
+                7,
+                0,
+                3,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(6, 1, 4, 7, 0, 3, 8, 5, 2)"
         },
         {
             "id": "249636",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                0,
+                3,
+                8
+            ],
+            "perm_string": "(6, 1, 4, 7, 2, 5, 0, 3, 8)"
         },
         {
             "id": "249637",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                0,
+                8,
+                3
+            ],
+            "perm_string": "(6, 1, 4, 7, 2, 5, 0, 8, 3)"
         },
         {
             "id": "249640",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                0,
+                3
+            ],
+            "perm_string": "(6, 1, 4, 7, 2, 5, 8, 0, 3)"
         },
         {
             "id": "249641",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                1,
+                4,
+                7,
+                2,
+                5,
+                8,
+                3,
+                0
+            ],
+            "perm_string": "(6, 1, 4, 7, 2, 5, 8, 3, 0)"
         },
         {
             "id": "249756",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                1,
+                4,
+                8,
+                2,
+                5,
+                0,
+                3,
+                7
+            ],
+            "perm_string": "(6, 1, 4, 8, 2, 5, 0, 3, 7)"
         },
         {
             "id": "249757",
             "value": 1,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                6,
+                1,
+                4,
+                8,
+                2,
+                5,
+                0,
+                7,
+                3
+            ],
+            "perm_string": "(6, 1, 4, 8, 2, 5, 0, 7, 3)"
         },
         {
             "id": "257438",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                3,
+                0,
+                5,
+                2,
+                7,
+                4,
+                1,
+                8
+            ],
+            "perm_string": "(6, 3, 0, 5, 2, 7, 4, 1, 8)"
         },
         {
             "id": "257444",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                3,
+                0,
+                5,
+                2,
+                8,
+                4,
+                1,
+                7
+            ],
+            "perm_string": "(6, 3, 0, 5, 2, 8, 4, 1, 7)"
         },
         {
             "id": "257499",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                3,
+                0,
+                5,
+                8,
+                1,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(6, 3, 0, 5, 8, 1, 4, 7, 2)"
         },
         {
             "id": "257560",
             "value": 7,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                3,
+                0,
+                7,
+                2,
+                5,
+                8,
+                1,
+                4
+            ],
+            "perm_string": "(6, 3, 0, 7, 2, 5, 8, 1, 4)"
         },
         {
             "id": "257573",
             "value": 4,
-            "equivs": 2
+            "equivs": 2,
+            "permutation": [
+                6,
+                3,
+                0,
+                7,
+                4,
+                1,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(6, 3, 0, 7, 4, 1, 8, 5, 2)"
         },
         {
             "id": "257723",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                6,
+                3,
+                0,
+                8,
+                5,
+                2,
+                7,
+                4,
+                1
+            ],
+            "perm_string": "(6, 3, 0, 8, 5, 2, 7, 4, 1)"
         },
         {
             "id": "284170",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                0,
+                3,
+                6,
+                1,
+                4,
+                8,
+                2,
+                5
+            ],
+            "perm_string": "(7, 0, 3, 6, 1, 4, 8, 2, 5)"
         },
         {
             "id": "285349",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                0,
+                5,
+                2,
+                8,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(7, 0, 5, 2, 8, 4, 1, 6, 3)"
         },
         {
             "id": "290076",
             "value": 3,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                1,
+                4,
+                8,
+                2,
+                5,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(7, 1, 4, 8, 2, 5, 0, 3, 6)"
         },
         {
             "id": "295236",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                2,
+                5,
+                0,
+                3,
+                6,
+                1,
+                4,
+                8
+            ],
+            "perm_string": "(7, 2, 5, 0, 3, 6, 1, 4, 8)"
         },
         {
             "id": "295237",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                2,
+                5,
+                0,
+                3,
+                6,
+                1,
+                8,
+                4
+            ],
+            "perm_string": "(7, 2, 5, 0, 3, 6, 1, 8, 4)"
         },
         {
             "id": "295306",
             "value": 1,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                2,
+                5,
+                0,
+                8,
+                3,
+                6,
+                1,
+                4
+            ],
+            "perm_string": "(7, 2, 5, 0, 8, 3, 6, 1, 4)"
         },
         {
             "id": "295309",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                2,
+                5,
+                0,
+                8,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(7, 2, 5, 0, 8, 4, 1, 6, 3)"
         },
         {
             "id": "295810",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                2,
+                5,
+                8,
+                0,
+                3,
+                6,
+                1,
+                4
+            ],
+            "perm_string": "(7, 2, 5, 8, 0, 3, 6, 1, 4)"
         },
         {
             "id": "297764",
             "value": 2,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                3,
+                0,
+                5,
+                2,
+                8,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(7, 3, 0, 5, 2, 8, 4, 1, 6)"
         },
         {
             "id": "303650",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                5,
+                2,
+                8
+            ],
+            "perm_string": "(7, 4, 1, 6, 3, 0, 5, 2, 8)"
         },
         {
             "id": "303651",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                5,
+                8,
+                2
+            ],
+            "perm_string": "(7, 4, 1, 6, 3, 0, 5, 8, 2)"
         },
         {
             "id": "303652",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                8,
+                2,
+                5
+            ],
+            "perm_string": "(7, 4, 1, 6, 3, 0, 8, 2, 5)"
         },
         {
             "id": "303653",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                7,
+                4,
+                1,
+                6,
+                3,
+                0,
+                8,
+                5,
+                2
+            ],
+            "perm_string": "(7, 4, 1, 6, 3, 0, 8, 5, 2)"
         },
         {
             "id": "324490",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(8, 0, 3, 6, 1, 4, 7, 2, 5)"
         },
         {
             "id": "325669",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                0,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(8, 0, 5, 2, 7, 4, 1, 6, 3)"
         },
         {
             "id": "330396",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                1,
+                4,
+                7,
+                2,
+                5,
+                0,
+                3,
+                6
+            ],
+            "perm_string": "(8, 1, 4, 7, 2, 5, 0, 3, 6)"
         },
         {
             "id": "335556",
             "value": 8,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                2,
+                5,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7
+            ],
+            "perm_string": "(8, 2, 5, 0, 3, 6, 1, 4, 7)"
         },
         {
             "id": "335629",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                2,
+                5,
+                0,
+                7,
+                4,
+                1,
+                6,
+                3
+            ],
+            "perm_string": "(8, 2, 5, 0, 7, 4, 1, 6, 3)"
         },
         {
             "id": "338084",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                8,
+                3,
+                0,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6
+            ],
+            "perm_string": "(8, 3, 0, 5, 2, 7, 4, 1, 6)"
         },
         {
             "id": "343970",
             "value": 6,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                4,
+                1,
+                6,
+                3,
+                0,
+                5,
+                2,
+                7
+            ],
+            "perm_string": "(8, 4, 1, 6, 3, 0, 5, 2, 7)"
         },
         {
             "id": "343972",
             "value": 4,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                4,
+                1,
+                6,
+                3,
+                0,
+                7,
+                2,
+                5
+            ],
+            "perm_string": "(8, 4, 1, 6, 3, 0, 7, 2, 5)"
         },
         {
             "id": "348075",
             "value": 5,
-            "equivs": 8
+            "equivs": 8,
+            "permutation": [
+                8,
+                5,
+                0,
+                3,
+                6,
+                1,
+                4,
+                7,
+                2
+            ],
+            "perm_string": "(8, 5, 0, 3, 6, 1, 4, 7, 2)"
         },
         {
             "id": "349810",
             "value": 5,
-            "equivs": 4
+            "equivs": 4,
+            "permutation": [
+                8,
+                5,
+                2,
+                7,
+                0,
+                3,
+                6,
+                1,
+                4
+            ],
+            "perm_string": "(8, 5, 2, 7, 0, 3, 6, 1, 4)"
         },
         {
             "id": "349883",
             "value": 12,
-            "equivs": 2
+            "equivs": 2,
+            "permutation": [
+                8,
+                5,
+                2,
+                7,
+                4,
+                1,
+                6,
+                3,
+                0
+            ],
+            "perm_string": "(8, 5, 2, 7, 4, 1, 6, 3, 0)"
         }
     ],
     "links": [
