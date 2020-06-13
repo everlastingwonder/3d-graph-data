@@ -5,11 +5,11 @@ import json
 
 
 # connectivity values: 1, 2, 3, 4, 5, 6, 7, 8, 12
-modes = {'nonadj': frozenset((1, 2, 3, 4, 5, 6, 7, 8, 12)),
-        'pole': frozenset((5, 12)),
+modes = {'default': frozenset((1, 2, 3, 4, 5, 6, 7, 8, 12)),
+        'center_poles': frozenset((5, 12)),
         'center': frozenset((5, 7, 12))}
 
-mode = 'nonadj' if len(sys.argv) == 1 else sys.argv[1].lower()
+mode = 'default' if len(sys.argv) == 1 else sys.argv[1].lower()
 include_values = modes[mode]
 
 
